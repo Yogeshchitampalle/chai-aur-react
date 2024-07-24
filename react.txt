@@ -1,0 +1,4 @@
+# react  is used to makes easy to manage & build comples frontend .
+state ?
+? state is 
+- State in React is an object that holds data that can change over time. 
